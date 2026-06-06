@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Apple",
+        "calories": 95
+    },
+    {
+        "name": "Banana",
+        "calories": 105
+    },
+    {
+        "name": "Chicken Breast",
+        "calories": 165
+    },
+    {
+        "name": "Rice",
+        "calories": 206
+    },
+    {
+        "name": "Burger",
+        "calories": 354
+    }
+]
